@@ -46,15 +46,7 @@ My goal is to become a **professional Backend Developer** capable of designing s
 ---
 
 ## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=marceloaugustomandeli&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaugustomandeli&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=58A6FF" />
-
-<img src="https://streak-stats.demolab.com?user=marceloaugustomandeli&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-</div>
+<img src="https://streak-stats.demolab.com?user=marceloaugustomandeli&background=00000000&border=00000000&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&dates=58A6FF" />
 
 ---
 
