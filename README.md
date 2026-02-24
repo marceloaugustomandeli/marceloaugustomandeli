@@ -27,5 +27,9 @@ Become a professional Backend Developer with a strong foundation in programming 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marceloaugustomandeli&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marceloaugustomandeli&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marceloaugustomandeli&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
