@@ -23,8 +23,6 @@ Become a professional Backend Developer with a strong foundation in programming 
 📌 Daily study progress available in my repositories.
 
 ---
-### 📊 GitHub Stats
-
 <table align="center">
   <tr>
     <td>
