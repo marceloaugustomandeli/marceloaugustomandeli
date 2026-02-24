@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Marcelo</h1>
 
-<!--
-**marceloaugustomandeli/marceloaugustomandeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Software Engineering Student focused on Backend Development
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github,vscode,postgres" />
+</p>
+
+---
+
+### 🎯 Goal
+
+Become a professional Backend Developer with a strong foundation in programming logic, APIs, and databases.
+
+---
+
+📌 Daily study progress available in my repositories.
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marceloaugustomandeli&show_icons=true&theme=tokyonight"/>
+</p>
