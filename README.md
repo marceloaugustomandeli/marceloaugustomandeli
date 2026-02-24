@@ -46,6 +46,8 @@ My goal is to become a **professional Backend Developer** capable of designing s
 ---
 
 ## 📈 GitHub Stats
+
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=marceloaugustomandeli&background=00000000&border=00000000&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&dates=58A6FF" />
 
 ---
