@@ -23,18 +23,10 @@ Become a professional Backend Developer with a strong foundation in programming 
 📌 Daily study progress available in my repositories.
 
 ---
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marceloaugustomandeli&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" />
-    </td>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marceloaugustomandeli&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" />
+</p>
 
-    <td width="20" align="center">
-      <img src="https://via.placeholder.com/2x120/30363D/30363D" />
-    </td>
-
-    <td>
-      <img src="https://streak-stats.demolab.com?user=marceloaugustomandeli&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=marceloaugustomandeli&theme=transparent&hide_border=true" />
+</p>
