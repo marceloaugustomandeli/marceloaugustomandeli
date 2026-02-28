@@ -1,48 +1,43 @@
 <div align="center">
 👨‍💻 Marcelo Augusto
-Backend Developer in Progress
+Backend Developer
 
 🎓 Software Engineering Student
-🧠 Currently building a strong foundation in Computer Science fundamentals
-🚀 Focused on Backend Development
+🚀 Focused on Backend Systems Development
 📍 Brazil
 
 </div>
-🧠 About Me
+🧠 Professional Summary
 
-I'm currently studying Software Engineering and focusing on building a solid low-level foundation before moving into high-level backend technologies.
+Software Engineering student focused on building a strong foundation in Computer Science fundamentals to support the development of scalable and high-performance backend systems.
 
-My current studies are centered around:
+Currently deepening knowledge in:
 
-✔️ Programming Logic
+✔️ Algorithms and Data Structures
 ✔️ Memory Management
-✔️ Data Structures
-✔️ Algorithms
-✔️ Computational Thinking
+✔️ System-Level Programming
+✔️ Computational Problem Solving
 
-Using C language to deeply understand how software interacts with memory and hardware.
+Leveraging the C programming language to strengthen understanding of low-level software behavior and performance, with the objective of applying these principles to modern backend architectures.
 
-My goal is to become a professional Backend Developer capable of designing scalable, efficient and high-performance systems — with a strong understanding of what happens "under the hood".
-
-🗺️ Learning Roadmap
-2026
-→ C Language (Fundamentals)
-→ Memory Management
+🗺️ Development Roadmap
+Core Foundations
+→ C Language
 → Data Structures & Algorithms
+→ Memory Management
 
-Late 2026
+Backend Track
 → C#
-
-2027
-→ ASP.NET
-→ APIs Development
-→ Databases
-→ Backend Architecture
+→ .NET / ASP.NET
+→ RESTful APIs
+→ Relational Databases
+→ Software Architecture
 ⚙️ Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=c,git,github,vscode&theme=dark" /> </div>
-📚 Currently Learning
+📚 Core Focus
 <div align="center"> <img src="https://skillicons.dev/icons?i=c" /> </div>
-## 📈 GitHub Stats
+
+📈 GitHub Stats
 
 <div align="center">
 <img height="165em"
@@ -50,16 +45,20 @@ src="https://streak-stats.demolab.com?user=marceloaugustomandeli&background=0000
 
 ---
 
-## 🎯 2026 Goals
+🎯 2026 Goals
 
-* 📌 Build REST APIs
-* 📌 Improve Database Modeling Skills
-* 📌 Learn System Design Basics
-* 📌 Contribute to Open Source Projects
+📌 Strengthen low-level programming fundamentals with C
 
+📌 Implement core data structures from scratch
+
+📌 Develop a solid understanding of memory management
+
+📌 Improve algorithmic problem-solving skills
+
+📌 Study computational complexity and performance trade-offs
 ---
 
-## 🌐 Connect with Me
+🌐 Connect with Me
 
 <div align="center">
 
