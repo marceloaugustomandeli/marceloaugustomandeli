@@ -1,50 +1,47 @@
 <div align="center">
-
-# 👨‍💻 Marcelo Augusto
-
-### Backend Developer in Progress
+👨‍💻 Marcelo Augusto
+Backend Developer in Progress
 
 🎓 Software Engineering Student
-🚀 Focused on **Backend Development**
+🧠 Currently building a strong foundation in Computer Science fundamentals
+🚀 Focused on Backend Development
 📍 Brazil
 
 </div>
+🧠 About Me
 
----
+I'm currently studying Software Engineering and focusing on building a solid low-level foundation before moving into high-level backend technologies.
 
-## 🧠 About Me
-
-I'm currently studying **Software Engineering** and building a strong foundation in:
+My current studies are centered around:
 
 ✔️ Programming Logic
-✔️ APIs Development
-✔️ Databases
-✔️ Backend Architecture
+✔️ Memory Management
+✔️ Data Structures
+✔️ Algorithms
+✔️ Computational Thinking
 
-My goal is to become a **professional Backend Developer** capable of designing scalable and efficient systems.
+Using C language to deeply understand how software interacts with memory and hardware.
 
----
+My goal is to become a professional Backend Developer capable of designing scalable, efficient and high-performance systems — with a strong understanding of what happens "under the hood".
 
-## ⚙️ Tech Stack
+🗺️ Learning Roadmap
+2026
+→ C Language (Fundamentals)
+→ Memory Management
+→ Data Structures & Algorithms
 
-<div align="center">
+Late 2026
+→ C#
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,git,github,vscode,postgres&theme=dark" />
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,js" />
-
-</div>
-
----
-
+2027
+→ ASP.NET
+→ APIs Development
+→ Databases
+→ Backend Architecture
+⚙️ Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=c,git,github,vscode&theme=dark" /> </div>
+📚 Currently Learning
+<div align="center"> <img src="https://skillicons.dev/icons?i=c" /> </div>
 ## 📈 GitHub Stats
 
 <div align="center">
