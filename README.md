@@ -47,15 +47,6 @@ My approach: understand deeply before shipping fast.
 - Develop a strong understanding of memory management and performance
 - Ship a meaningful backend project end-to-end
 
----
-
-### Why C first?
-
-Most people skip it. I didn't.
-
-Every abstraction makes more sense when you've seen what's underneath it. Learning C before frameworks or libraries is a deliberate choice — it builds the kind of understanding that doesn't expire.
-
----
 
 <p align="center">
   <sub>📍 Maringá, Brazil · Open to opportunities · Updated March 2026</sub>
