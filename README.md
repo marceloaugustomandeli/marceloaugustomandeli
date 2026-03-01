@@ -32,6 +32,7 @@ My approach: understand deeply before shipping fast.
 
 **Foundation — currently here**
 - C Language · Memory Management · Pointers · Data Structures · Algorithms
+- Python · Scripting · Automation · API consumption
 
 **Backend Track — next**
 - C# · .NET / ASP.NET · RESTful APIs · Relational Databases · Software Architecture
@@ -42,7 +43,7 @@ My approach: understand deeply before shipping fast.
 
 - Solidify low-level programming fundamentals with C
 - Implement core data structures from scratch
-- Build automation tools that solve real problems at work
+- Build automation tools in Python that solve real problems at work
 - Develop a strong understanding of memory management and performance
 - Ship a meaningful backend project end-to-end
 
