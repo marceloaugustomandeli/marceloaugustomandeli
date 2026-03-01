@@ -1,78 +1,92 @@
-<div align="center">
-👨‍💻 Marcelo Augusto
-Backend Developer
-
-🎓 Software Engineering Student
-🚀 Focused on Backend Systems Development
-📍 Brazil
-
-</div>
-🧠 Professional Summary
-
-Software Engineering student focused on building a strong foundation in Computer Science fundamentals to support the development of scalable and high-performance backend systems.
-
-Currently deepening knowledge in:
-
-✔️ Algorithms and Data Structures
-✔️ Memory Management
-✔️ System-Level Programming
-✔️ Computational Problem Solving
-
-Leveraging the C programming language to strengthen understanding of low-level software behavior and performance, with the objective of applying these principles to modern backend architectures.
-
-🗺️ Development Roadmap
-Core Foundations
-→ C Language
-→ Data Structures & Algorithms
-→ Memory Management
-
-Backend Track
-→ C#
-→ .NET / ASP.NET
-→ RESTful APIs
-→ Relational Databases
-→ Software Architecture
-⚙️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=c,git,github,vscode&theme=dark" /> </div>
-📚 Core Focus
-<div align="center"> <img src="https://skillicons.dev/icons?i=c" /> </div>
-
-📈 GitHub Stats
-
-<div align="center">
-<img height="165em"
-src="https://streak-stats.demolab.com?user=marceloaugustomandeli&background=00000000&border=00000000&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=58A6FF&currStreakNum=58A6FF&dates=9EC1FF" />
-
----
-
-🎯 2026 Goals
-
-📌 Strengthen low-level programming fundamentals with C
-
-📌 Implement core data structures from scratch
-
-📌 Develop a solid understanding of memory management
-
-📌 Improve algorithmic problem-solving skills
-
-📌 Study computational complexity and performance trade-offs
----
-
-🌐 Connect with Me
-
+<!-- Header -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/marcelo-augusto-mandeli-73997a3b0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║         MARCELO AUGUSTO MANDELI DA SILVA                     ║
+║         Backend Developer  ·  Systems Thinker  ·  Brazil     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-mandeli-73997a3b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marceloaugustomandeli)
 
 </div>
 
 ---
 
+## `$ whoami`
+
+Software Engineering student building from the ground up — starting where it matters most: **low-level fundamentals**.
+
+I work at the operational layer of a travel tech company ([EzLink](https://ezlink.com.br)), where I interact daily with booking systems, XML logs, and API integrations — which sparked my drive to understand these systems at the code level. That environment pushed me to ask not just *how* to use systems, but **why they break** — and how to fix them at the root.
+
+My focus isn't on shipping fast. It's on understanding deeply.
+
+---
+
+## `$ cat roadmap.txt`
+
+```
+FOUNDATION LAYER (current)
+├── C Language              ████████░░  active
+├── Memory Management       ██████░░░░  in progress  
+├── Data Structures         ████░░░░░░  building
+└── Algorithms & Complexity ███░░░░░░░  building
+
+BACKEND TRACK (next)
+├── C#  →  .NET / ASP.NET
+├── RESTful API Design
+├── Relational Databases
+└── Software Architecture
+```
+
+---
+
+## `$ ls -la /skills`
+
+```
+drwxr-xr-x  systems-thinking     # working with production systems daily
+drwxr-xr-x  xml-log-analysis     # real operational experience
+drwxr-xr-x  api-integration      # reservation & booking systems
+drwxr-xr-x  problem-solving      # live incident resolution
+drwxr-xr-x  c-programming        # core language focus
+drwxr-xr-x  python               # automation & scripting
+```
+
+---
+
+## `$ cat goals_2026.md`
+
+- [ ] Solidify low-level programming with C — **memory, pointers, data structures**
+- [ ] Build automation tools that solve real problems at work
+- [ ] Implement core data structures from scratch, no shortcuts
+- [ ] Understand computational complexity and performance trade-offs
+- [ ] Ship first meaningful backend project
+
+---
+
+## `$ echo $PHILOSOPHY`
+
+> *"I'd rather understand one thing completely than know ten things superficially."*
+
+Learning C before anything else wasn't the easy choice — it was the right one.  
+Every abstraction makes more sense when you've seen what's underneath it.
+
+---
+
+## `$ ping -c 1 contact`
+
 <div align="center">
 
-💡 *Daily study progress available in my repositories.*
+📍 Maringá, Brazil &nbsp;·&nbsp; 💼 Open to opportunities &nbsp;·&nbsp; 🏢 Currently @ EzLink
 
 </div>
 
+---
+
+<div align="center">
+<sub>Updated March 2026 · Built with intention, not haste</sub>
+</div>
